@@ -1,0 +1,2 @@
+# Blind
+Config.cfg
